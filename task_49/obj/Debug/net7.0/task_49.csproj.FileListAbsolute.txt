@@ -1,0 +1,15 @@
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.csproj.AssemblyReference.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.AssemblyInfoInputs.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.AssemblyInfo.cs
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/bin/Debug/net7.0/task_49
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/bin/Debug/net7.0/task_49.deps.json
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/bin/Debug/net7.0/task_49.runtimeconfig.json
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/bin/Debug/net7.0/task_49.dll
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/bin/Debug/net7.0/task_49.pdb
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.dll
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/refint/task_49.dll
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.pdb
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/task_49.genruntimeconfig.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/task_49/obj/Debug/net7.0/ref/task_49.dll
