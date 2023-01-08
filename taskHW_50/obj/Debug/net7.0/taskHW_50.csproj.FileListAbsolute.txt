@@ -1,0 +1,15 @@
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.csproj.AssemblyReference.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.AssemblyInfoInputs.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.AssemblyInfo.cs
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/bin/Debug/net7.0/taskHW_50
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/bin/Debug/net7.0/taskHW_50.deps.json
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/bin/Debug/net7.0/taskHW_50.runtimeconfig.json
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/bin/Debug/net7.0/taskHW_50.dll
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/bin/Debug/net7.0/taskHW_50.pdb
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.dll
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/refint/taskHW_50.dll
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.pdb
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/taskHW_50.genruntimeconfig.cache
+/Users/daria/Desktop/lection_C#/7_Seminar/taskHW_50/obj/Debug/net7.0/ref/taskHW_50.dll
